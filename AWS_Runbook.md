@@ -22,3 +22,7 @@ To add or replace a key pair, you must be able to connect to your instance. If y
 
 ## Add SSH Key to EC2 instances with Ansible – Automated
 https://www.middlewareinventory.com/blog/ansible-ec2-ssh-key/
+
+# AWS Config
+List of changes to a resource in the environment can be seen as timeline in AWS config.
+
